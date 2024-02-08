@@ -1,8 +1,17 @@
 import React from 'react';
 
+
 function App() {
   return (
-    <div>App</div>
+    <div className="app">
+      
+      {/* Begin of the component */}
+
+      
+
+      {/* End of the component */}
+
+    </div>
   )
 }
 
